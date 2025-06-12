@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementSystem", "EmployeeManagementSystem\EmployeeManagementSystem.csproj", "{12198051-4C6A-43E1-8F13-29E2C2F40952}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Amixiid Company", "Amixiid Company\Amixiid Company.vdproj", "{5639D9DF-4AC2-4F9A-4AD6-DA75EF65887D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12198051-4C6A-43E1-8F13-29E2C2F40952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12198051-4C6A-43E1-8F13-29E2C2F40952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12198051-4C6A-43E1-8F13-29E2C2F40952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12198051-4C6A-43E1-8F13-29E2C2F40952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5639D9DF-4AC2-4F9A-4AD6-DA75EF65887D}.Debug|Any CPU.ActiveCfg = Debug
+		{5639D9DF-4AC2-4F9A-4AD6-DA75EF65887D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCD45012-F48D-4F36-BFC4-6782A3AAA575}
+	EndGlobalSection
+EndGlobal

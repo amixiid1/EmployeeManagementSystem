@@ -146,8 +146,6 @@ You can add a license (MIT, Apache 2.0, etc.) depending on your choice.
 ---
 ## 👤 Author  
 - **Name:** Your Name  
-- **Email:** [📧 amixiid@gmail.com](mailto:your-amixiid@gmail.co)  
-- **GitHub:** [amixiid1](https://github.com/amxiid1)  
-
-
+- **Email:** [📧 amixiid@gmail.com](mailto:amixiid@gmail.com)  
+- **GitHub:** [amixiid1](https://github.com/amixiid1)  
 
